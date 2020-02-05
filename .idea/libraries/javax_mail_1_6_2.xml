@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javax.mail-1.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/javax.mail-1.6.2.jar!/com" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/javax.mail-1.6.2.jar!/javax" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
